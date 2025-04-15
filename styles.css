@@ -55,3 +55,7 @@ ul{
 .navbar-toggler-icon {
     background-image: url("./images/drop.webp"); /* Replace with your custom icon if desired */
   }
+
+.card{
+    margin-bottom: 100px;
+  }
